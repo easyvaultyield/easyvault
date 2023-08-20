@@ -1,27 +1,5 @@
 [
   {
-    "id": "retro-gamma-frax-mimatic-",
-    "name": "FRAX-MAI LP",
-    "token": "FRAX-MAI rLP",
-    "tokenAddress": "0xE193C653B6030a9BB443AE7c6Ef6e35d93348f98",
-    "tokenDecimals": 18,
-    "tokenProviderId": "retro",
-    "earnedToken": "mooRetroFRAX-MAI",
-    "earnedTokenAddress": "0xFe2f5e215C0Fe9b5D4fF99cA7cBB5F5a77f5C515",
-    "earnContractAddress": "0xFe2f5e215C0Fe9b5D4fF99cA7cBB5F5a77f5C515",
-    "oracle": "lps",
-    "oracleId": "retro-gamma-frax-mimatic-",
-    "status": "active",
-    "platformId": "gamma",
-    "assets": ["FRAX", "MAI"],
-    "strategyTypeId": "multi-lp",
-    "risks": ["COMPLEXITY_LOW", "IL_NONE", "MCAP_SMALL", "AUDIT", "CONTRACTS_VERIFIED"],
-    "addLiquidityUrl": "https://app.gamma.xyz/vault/retro/polygon/details/frax-mai-3000-stable",
-    "removeLiquidityUrl": "https://app.gamma.xyz/vault/retro/polygon/details/frax-mai-3000-stable",
-    "network": "polygon",
-    "createdAt": 1691499559
-  },
-  {
     "id": "retro-gamma-wmatic-maticx",
     "name": "MaticX-MATIC LP",
     "token": "MaticX-MATIC rLP",
